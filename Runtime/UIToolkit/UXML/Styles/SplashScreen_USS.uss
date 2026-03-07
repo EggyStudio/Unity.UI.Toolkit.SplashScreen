@@ -16,7 +16,6 @@ VisualElement {
 .BigLogo {
     width: 350px;
     height: 120px;
-    background-image: url("project://database/Assets/_Game/Scenes/Boot/Logos/Splash_Logo_Unity.png?fileID=2800000&guid=b10487235c3f69646988496d332fd222&type=3#Splash_Logo_Unity");
     -unity-background-scale-mode: scale-to-fit;
 }
 
@@ -34,7 +33,6 @@ VisualElement {
 .SmallLogo {
     flex-grow: 1;
     align-self: center;
-    background-image: url("project://database/Assets/_Game/Scenes/Boot/Logos/Splash_Logo_Unity.png?fileID=2800000&guid=b10487235c3f69646988496d332fd222&type=3#Splash_Logo_Unity");
     background-color: rgba(0, 0, 0, 0);
     width: 100%;
     height: 120px;
@@ -55,7 +53,6 @@ VisualElement {
     top: 62%;
     font-size: 30px;
     color: rgba(255, 255, 255, 0.66);
-    -unity-font-definition: url("project://database/Assets/_Game/Scenes/Boot/Font/SegoeUI/SegoeUI-Regular.ttf?fileID=12800000&guid=92fa34a5952b7444d95fa41522b6718c&type=3#SegoeUI-Regular");
     margin-top: 0;
     margin-right: 0;
     margin-bottom: 0;
